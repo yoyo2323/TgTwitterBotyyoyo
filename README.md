@@ -20,6 +20,8 @@ All Enviroment Variables can be found in [`env.sample`](https://github.com/New-d
 ## Deploy to Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/oWd5QD)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yoyo2323/TgTwitterBotyyoyo)
+
 ## Deploying Locally
 Fill Your Env Variables in .env file !
 ```shell
